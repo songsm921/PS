@@ -3,7 +3,6 @@
 #include <algorithm>
 #include <vector>
 using namespace std;
-
 int map[25][25];
 int visit[25][25];
 int visited = 0;
